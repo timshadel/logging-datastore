@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="MAVEN_REPO/junit/junit/3.8.2/junit-3.8.2.jar"/>
+	<classpathentry kind="var" path="MAVEN_REPO/org/springframework/spring/2.0.2/spring-2.0.2.jar"/>
+	<classpathentry kind="var" path="MAVEN_REPO/log4j/log4j/1.2.13/log4j-1.2.13.jar"/>
+	<classpathentry kind="var" path="MAVEN_REPO/jmock/jmock/1.1.0/jmock-1.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
